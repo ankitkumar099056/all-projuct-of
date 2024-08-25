@@ -1,0 +1,81 @@
+.nav-item{
+    padding-left: 50px;
+}
+.navebardown{
+    width: 1300px;
+    height: 600px;
+    background-color: blue;
+}
+.img_logo{
+    align-items: center;
+}
+.img_logoka{
+    align-items: center;
+}
+.computer-zz{
+    width: 1300px;
+    height: 600px;
+    background-color: white;
+}
+.computer-zz img{
+    display: flex;
+    margin-left: 800px;
+    margin-top: -130px;
+}
+.boxbig-t{
+    width: 1300px;
+    height: 800px;
+    background-color: aqua;
+}
+.zzz{
+    background-color: rgb(9, 233, 233);
+}
+.pointer-max{
+    width: 1320px;
+    height: 500px;
+    background-color: blueviolet;
+}
+.logo-img{
+    align-items: center;
+}
+.company{
+    align-items: center;
+
+}
+.kgf_img{
+    align-items: center;
+}
+.rohit-cp{
+    background-color: rgb(122, 113, 113);
+    width: 1320px;
+    height: 500px;
+}
+.sanu-xy{
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    margin-left: 50px;
+}
+.aryan{
+    width: 500px;
+    height: 300px;
+    background-color:white;
+    display: flex;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.nave-zxy{
+    width: 1320px;
+    height: 400px;
+    background-color: white;
+
+}
+.img-xxxx{
+    align-items: center;
+}
+.footer-by{
+    width: 1320px;
+    height: 600px;
+    background-color: rgb(93, 93, 218);
+
+}
